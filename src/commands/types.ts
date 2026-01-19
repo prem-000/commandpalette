@@ -6,9 +6,9 @@ export interface Command {
     description?: string;
     category?: string;
     keywords?: string[];
-    shortcut?: string[]; // e.g., ['Meta', 'P']
+    shortcut?: string[]; 
     action: CommandAction;
-    icon?: string; // Optional icon name or URL
+    icon?: string; 
 }
 
 export interface SearchResult {

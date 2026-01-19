@@ -112,7 +112,7 @@ function App() {
       </main>
 
       <footer className="fixed bottom-8 text-gray-600 text-sm">
-        Designed by Antigravity AI • Built with Vite + Tailwind
+        • Built with Vite + Tailwind
       </footer>
     </div>
   )
